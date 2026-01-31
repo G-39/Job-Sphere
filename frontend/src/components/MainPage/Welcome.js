@@ -29,7 +29,7 @@ export default function Welcome() {
                         </div>
 
                         <div className='mt-2 fs-5 text-muted '>
-                            <span>Embark on your career journey with JobVista, your one-stop destination for finding the perfect job match. We understand that your career is more than just a job.Our user-friendly homepage is designed to make your job search seamless, intuitive, and tailored to your unique aspirations.</span>
+                            <span>Embark on your career journey with JobSphere, your one-stop destination for finding the perfect job match. We understand that your career is more than just a job.Our user-friendly homepage is designed to make your job search seamless, intuitive, and tailored to your unique aspirations.</span>
                         </div>
                         <div className='mt-5 '>
                         <NavLink to={recruiter.email == "" && jobSeeker.email=="" ? "/register/jobseeker" : ""}>
