@@ -145,10 +145,9 @@ http://localhost:3000
 
 ## 👨‍💻 Developer
 
-**Sumit Pandey.
-*Full Stack Java Developer
-*Muhammad Saad Ibrahim Bagwan.
-*Full Stack Java Developer.
+- **Sumit Pandey.** *Full Stack Java Developer*  
+- **Muhammad Saad Ibrahim Bagwan.** *Full Stack Java Developer*
+
 
 * GitHub: [https://github.com/G-39](https://github.com/G-39)
 
